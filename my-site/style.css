@@ -1,0 +1,14 @@
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
+#gen1 {
+    border: 2px solid black;
+}
+p {
+    font-size: 24px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
