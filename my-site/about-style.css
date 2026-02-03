@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background: #d5caf3;
+    color: #000000;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+header {
+    background: #af40ff;
+    color: white;
+    padding: 15px;
+}
+
+section {
+    background: rgb(244, 221, 255);
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+}
